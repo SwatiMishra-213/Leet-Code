@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0001-two-sum) |
+| [0907-koko-eating-bananas](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0907-koko-eating-bananas) |
 | [1656-count-good-triplets](https://github.com/SwatiMishra-213/Leet-Code/tree/master/1656-count-good-triplets) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/SwatiMishra-213/Leet-Code/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/SwatiMishra-213/Leet-Code/tree/master/2280-count-good-triplets-in-an-array) |
@@ -25,6 +26,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0907-koko-eating-bananas](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0907-koko-eating-bananas) |
 | [2280-count-good-triplets-in-an-array](https://github.com/SwatiMishra-213/Leet-Code/tree/master/2280-count-good-triplets-in-an-array) |
 ## Divide and Conquer
 |  |
