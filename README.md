@@ -48,4 +48,8 @@
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/SwatiMishra-213/Leet-Code/tree/master/2280-count-good-triplets-in-an-array) |
+## String
+|  |
+| ------- |
+| [0038-count-and-say](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0038-count-and-say) |
 <!---LeetCode Topics End-->
