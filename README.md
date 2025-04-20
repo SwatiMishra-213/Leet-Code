@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0001-two-sum) |
+| [0797-rabbits-in-forest](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0797-rabbits-in-forest) |
 | [0907-koko-eating-bananas](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0907-koko-eating-bananas) |
 | [1656-count-good-triplets](https://github.com/SwatiMishra-213/Leet-Code/tree/master/1656-count-good-triplets) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/SwatiMishra-213/Leet-Code/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -15,6 +16,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0001-two-sum) |
+| [0797-rabbits-in-forest](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0797-rabbits-in-forest) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/SwatiMishra-213/Leet-Code/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Sliding Window
 |  |
@@ -62,4 +64,12 @@
 |  |
 | ------- |
 | [2699-count-the-number-of-fair-pairs](https://github.com/SwatiMishra-213/Leet-Code/tree/master/2699-count-the-number-of-fair-pairs) |
+## Math
+|  |
+| ------- |
+| [0797-rabbits-in-forest](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0797-rabbits-in-forest) |
+## Greedy
+|  |
+| ------- |
+| [0797-rabbits-in-forest](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0797-rabbits-in-forest) |
 <!---LeetCode Topics End-->
