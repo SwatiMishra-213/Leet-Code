@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0001-two-sum) |
+| [0160-intersection-of-two-linked-lists](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0797-rabbits-in-forest](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0797-rabbits-in-forest) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/SwatiMishra-213/Leet-Code/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Sliding Window
@@ -60,6 +61,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0160-intersection-of-two-linked-lists) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/SwatiMishra-213/Leet-Code/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Sorting
 |  |
@@ -77,4 +79,8 @@
 |  |
 | ------- |
 | [2249-count-the-hidden-sequences](https://github.com/SwatiMishra-213/Leet-Code/tree/master/2249-count-the-hidden-sequences) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
