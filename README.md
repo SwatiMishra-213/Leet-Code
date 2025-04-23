@@ -38,6 +38,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0191-number-of-1-bits) |
 | [2280-count-good-triplets-in-an-array](https://github.com/SwatiMishra-213/Leet-Code/tree/master/2280-count-good-triplets-in-an-array) |
 ## Binary Indexed Tree
 |  |
@@ -98,4 +99,8 @@
 |  |
 | ------- |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/SwatiMishra-213/Leet-Code/tree/master/2415-count-the-number-of-ideal-arrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
