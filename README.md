@@ -8,6 +8,7 @@
 | [0797-rabbits-in-forest](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0797-rabbits-in-forest) |
 | [0907-koko-eating-bananas](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0907-koko-eating-bananas) |
 | [1656-count-good-triplets](https://github.com/SwatiMishra-213/Leet-Code/tree/master/1656-count-good-triplets) |
+| [1940-maximum-xor-for-each-query](https://github.com/SwatiMishra-213/Leet-Code/tree/master/1940-maximum-xor-for-each-query) |
 | [2249-count-the-hidden-sequences](https://github.com/SwatiMishra-213/Leet-Code/tree/master/2249-count-the-hidden-sequences) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/SwatiMishra-213/Leet-Code/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/SwatiMishra-213/Leet-Code/tree/master/2280-count-good-triplets-in-an-array) |
@@ -82,6 +83,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1940-maximum-xor-for-each-query](https://github.com/SwatiMishra-213/Leet-Code/tree/master/1940-maximum-xor-for-each-query) |
 | [2249-count-the-hidden-sequences](https://github.com/SwatiMishra-213/Leet-Code/tree/master/2249-count-the-hidden-sequences) |
 ## Linked List
 |  |
@@ -103,4 +105,5 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0191-number-of-1-bits) |
+| [1940-maximum-xor-for-each-query](https://github.com/SwatiMishra-213/Leet-Code/tree/master/1940-maximum-xor-for-each-query) |
 <!---LeetCode Topics End-->
