@@ -14,6 +14,7 @@
 | [2280-count-good-triplets-in-an-array](https://github.com/SwatiMishra-213/Leet-Code/tree/master/2280-count-good-triplets-in-an-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/SwatiMishra-213/Leet-Code/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/SwatiMishra-213/Leet-Code/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/SwatiMishra-213/Leet-Code/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Hash Table
 |  |
 | ------- |
