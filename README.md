@@ -12,6 +12,7 @@
 | [2249-count-the-hidden-sequences](https://github.com/SwatiMishra-213/Leet-Code/tree/master/2249-count-the-hidden-sequences) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/SwatiMishra-213/Leet-Code/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/SwatiMishra-213/Leet-Code/tree/master/2280-count-good-triplets-in-an-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/SwatiMishra-213/Leet-Code/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/SwatiMishra-213/Leet-Code/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/SwatiMishra-213/Leet-Code/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/SwatiMishra-213/Leet-Code/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -26,6 +27,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/SwatiMishra-213/Leet-Code/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/SwatiMishra-213/Leet-Code/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Enumeration
 |  |
@@ -36,6 +38,7 @@
 | ------- |
 | [0907-koko-eating-bananas](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0907-koko-eating-bananas) |
 | [2280-count-good-triplets-in-an-array](https://github.com/SwatiMishra-213/Leet-Code/tree/master/2280-count-good-triplets-in-an-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/SwatiMishra-213/Leet-Code/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/SwatiMishra-213/Leet-Code/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Divide and Conquer
 |  |
@@ -86,6 +89,7 @@
 | ------- |
 | [1940-maximum-xor-for-each-query](https://github.com/SwatiMishra-213/Leet-Code/tree/master/1940-maximum-xor-for-each-query) |
 | [2249-count-the-hidden-sequences](https://github.com/SwatiMishra-213/Leet-Code/tree/master/2249-count-the-hidden-sequences) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/SwatiMishra-213/Leet-Code/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Linked List
 |  |
 | ------- |
