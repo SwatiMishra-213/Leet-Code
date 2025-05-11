@@ -111,4 +111,8 @@
 | ------- |
 | [0191-number-of-1-bits](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0191-number-of-1-bits) |
 | [1940-maximum-xor-for-each-query](https://github.com/SwatiMishra-213/Leet-Code/tree/master/1940-maximum-xor-for-each-query) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/SwatiMishra-213/Leet-Code/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
