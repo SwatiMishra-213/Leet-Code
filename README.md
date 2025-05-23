@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0001-two-sum) |
 | [0455-assign-cookies](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0455-assign-cookies) |
 | [0797-rabbits-in-forest](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0797-rabbits-in-forest) |
+| [0890-lemonade-change](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0907-koko-eating-bananas) |
 | [1656-count-good-triplets](https://github.com/SwatiMishra-213/Leet-Code/tree/master/1656-count-good-triplets) |
 | [1940-maximum-xor-for-each-query](https://github.com/SwatiMishra-213/Leet-Code/tree/master/1940-maximum-xor-for-each-query) |
@@ -89,6 +90,7 @@
 | ------- |
 | [0455-assign-cookies](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0455-assign-cookies) |
 | [0797-rabbits-in-forest](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0797-rabbits-in-forest) |
+| [0890-lemonade-change](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0890-lemonade-change) |
 ## Prefix Sum
 |  |
 | ------- |
