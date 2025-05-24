@@ -82,6 +82,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0070-climbing-stairs) |
 | [0797-rabbits-in-forest](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0797-rabbits-in-forest) |
 | [1500-count-largest-group](https://github.com/SwatiMishra-213/Leet-Code/tree/master/1500-count-largest-group) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/SwatiMishra-213/Leet-Code/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -105,6 +106,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0070-climbing-stairs) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/SwatiMishra-213/Leet-Code/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Combinatorics
 |  |
@@ -127,4 +129,8 @@
 | [1258-article-views-i](https://github.com/SwatiMishra-213/Leet-Code/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/SwatiMishra-213/Leet-Code/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/SwatiMishra-213/Leet-Code/tree/master/1908-recyclable-and-low-fat-products) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
