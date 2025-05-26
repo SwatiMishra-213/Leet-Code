@@ -66,6 +66,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0038-count-and-say) |
 ## Two Pointers
 |  |
@@ -133,4 +134,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0070-climbing-stairs) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
