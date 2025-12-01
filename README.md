@@ -71,9 +71,11 @@
 | [0014-longest-common-prefix](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0049-group-anagrams) |
+| [0151-reverse-words-in-a-string](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0455-assign-cookies](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0908-middle-of-the-linked-list) |
