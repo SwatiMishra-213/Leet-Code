@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0049-group-anagrams) |
 | [0455-assign-cookies](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0455-assign-cookies) |
 | [0797-rabbits-in-forest](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0890-lemonade-change) |
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0797-rabbits-in-forest](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0797-rabbits-in-forest) |
 | [1500-count-largest-group](https://github.com/SwatiMishra-213/Leet-Code/tree/master/1500-count-largest-group) |
@@ -68,6 +70,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0049-group-anagrams) |
 ## Two Pointers
 |  |
 | ------- |
@@ -78,6 +81,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0049-group-anagrams) |
 | [0455-assign-cookies](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0455-assign-cookies) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/SwatiMishra-213/Leet-Code/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Math
