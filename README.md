@@ -25,6 +25,7 @@
 | [0001-two-sum](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0160-intersection-of-two-linked-lists) |
+| [0242-valid-anagram](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0242-valid-anagram) |
 | [0797-rabbits-in-forest](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0797-rabbits-in-forest) |
 | [1500-count-largest-group](https://github.com/SwatiMishra-213/Leet-Code/tree/master/1500-count-largest-group) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/SwatiMishra-213/Leet-Code/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -72,6 +73,7 @@
 | [0038-count-and-say](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -84,6 +86,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0455-assign-cookies) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/SwatiMishra-213/Leet-Code/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Math
