@@ -70,6 +70,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
@@ -150,6 +151,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
 ## Tree
 |  |
