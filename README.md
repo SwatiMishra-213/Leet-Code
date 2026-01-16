@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0049-group-anagrams) |
 | [0283-move-zeroes](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0455-assign-cookies) |
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0283-move-zeroes) |
@@ -121,6 +123,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0070-climbing-stairs) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/SwatiMishra-213/Leet-Code/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Combinatorics
@@ -156,6 +159,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
 ## Tree
 |  |
@@ -169,4 +173,8 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
