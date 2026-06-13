@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0242-valid-anagram) |
@@ -35,6 +36,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/SwatiMishra-213/Leet-Code/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/SwatiMishra-213/Leet-Code/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Enumeration
@@ -72,6 +74,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0038-count-and-say) |
