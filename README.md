@@ -22,6 +22,7 @@
 | [2626-count-the-number-of-good-subarrays](https://github.com/SwatiMishra-213/Leet-Code/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/SwatiMishra-213/Leet-Code/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/SwatiMishra-213/Leet-Code/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3838-weighted-word-mapping](https://github.com/SwatiMishra-213/Leet-Code/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,6 +82,7 @@
 | [0049-group-anagrams](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0242-valid-anagram) |
+| [3838-weighted-word-mapping](https://github.com/SwatiMishra-213/Leet-Code/tree/master/3838-weighted-word-mapping) |
 ## Two Pointers
 |  |
 | ------- |
@@ -181,4 +183,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0042-trapping-rain-water) |
+## Simulation
+|  |
+| ------- |
+| [3838-weighted-word-mapping](https://github.com/SwatiMishra-213/Leet-Code/tree/master/3838-weighted-word-mapping) |
 <!---LeetCode Topics End-->
