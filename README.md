@@ -93,6 +93,7 @@
 | [0283-move-zeroes](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0908-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SwatiMishra-213/Leet-Code/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/SwatiMishra-213/Leet-Code/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Sorting
 |  |
@@ -125,6 +126,7 @@
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0908-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SwatiMishra-213/Leet-Code/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -167,6 +169,7 @@
 | [0020-valid-parentheses](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SwatiMishra-213/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SwatiMishra-213/Leet-Code/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Tree
 |  |
 | ------- |
